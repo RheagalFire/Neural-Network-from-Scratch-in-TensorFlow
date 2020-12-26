@@ -1,5 +1,5 @@
 # Neural Network From Scratch
-The Prerequisite of understanding this ipynb file is that you must be familier with the concepts 
+The Prerequisite of understanding this [ipynb file](https://github.com/RheagalFire/Neural-Network-from-Scratch-in-TensorFlow/blob/master/SNN-tensorflow/Neural%20Network%20from%20Scratch%20in%20TensorFlow.ipynb) is that you must be familier with the concepts 
 of object oriented programming(overriding methods,constructors,inheritence) in python and the  basics of neural networks
 ## Tutorial Sites
 I have placed link of the youtube channels for studying this topic
